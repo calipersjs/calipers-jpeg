@@ -1,6 +1,6 @@
 {
   "name": "calipers-jpeg",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "description": "JPEG plugin for calipers.",
   "main": "lib/index.js",
   "scripts": {
