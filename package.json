@@ -34,6 +34,6 @@
     "mocha-lcov-reporter": "^1.3.0"
   },
   "peerDependencies": {
-    "calipers": "2.x.x"
+    "calipers": "^2 || ^3"
   }
 }
