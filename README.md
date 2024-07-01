@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/calipers-jpeg.svg)](http://badge.fury.io/js/calipers-jpeg) [![Build Status](https://github.com/calipersjs/calipers-jpeg/actions/workflows/ci.yml/badge.svg)](https://github.com/calipersjs/calipers-jpeg/actions)
 
-PNG Plugin for [Calipers](https://github.com/calipersjs/calipers).
+JPEG Plugin for [Calipers](https://github.com/calipersjs/calipers).
 
 # Installation
 
